@@ -49,6 +49,10 @@ SourceArt/**/*.tga
 Binaries/*
 Plugins/*/Binaries/*
 
+# Visual Studio cache directory
+.vs/
+.vscode/
+
 # Builds
 Build/*
 
