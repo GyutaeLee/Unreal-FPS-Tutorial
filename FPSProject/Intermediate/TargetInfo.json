@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "FPSProject",
+			"Path": "/Users/igyutae/GyutaeLee/Programmer/_Unreal/FPSProject/Source/FPSProject.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "FPSProjectEditor",
+			"Path": "/Users/igyutae/GyutaeLee/Programmer/_Unreal/FPSProject/Source/FPSProjectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
